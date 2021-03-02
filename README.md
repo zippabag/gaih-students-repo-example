@@ -1,5 +1,5 @@
 # GAIH Student Repo Example
-![](img/logo.png)
+![](img/newlogo.png)
 
 **Course Date:** DD.MM.YYYY  
 **Name:** Mert  
