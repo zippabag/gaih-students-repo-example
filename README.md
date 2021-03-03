@@ -20,5 +20,5 @@ Some python libraries
 ---
 
 ### Certification
-![](img/Top Learner Certificate.png)
+![](img/TopLearnerCertificate.png)
 
